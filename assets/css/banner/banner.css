@@ -1,0 +1,15 @@
+.banner{
+    position: relative;
+}
+
+@media screen and (min-width: 0){
+    .banne__titulo {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .logo {
+        display: block;
+    }
+}
